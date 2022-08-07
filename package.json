@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@coral-xyz/xnft-cli": "latest"
+    "@coral-xyz/xnft-cli": "^0.0.5-latest.1407"
   },
   "dependencies": {
-    "react-xnft": "latest",
-    "react": "^17.0.2"
+    "react": "^17.0.2",
+    "react-xnft": "^0.0.5-latest.1407"
   }
 }
